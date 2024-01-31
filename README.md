@@ -1,5 +1,5 @@
 # IntelligentSystems
- ### A university course about Intelligent systems/ Artificial intelligence
+ ### A university course about Intelligent systems/ Artificial intelligence 2023/2024
 ##### FrogLeap - switch the positions of all the frogs, so that all n ">" frogs are on the right and all n "<" frogs are on the left.
 ##### SlidingPuzzle - given an order of numbers and position for the blank piece the algorithm gives optimal solution. Used A* algorithm with Manhattan distance for heuristic.
 ##### NQueens - places n queens on NxN chess board so no two queens attack each other. Used Min conflicts algorithm.
