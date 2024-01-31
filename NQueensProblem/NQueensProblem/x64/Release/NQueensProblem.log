@@ -1,0 +1,9 @@
+﻿  NQueensProblem.cpp
+D:\Intelligent_Systems\NQueensProblem\NQueensProblem\NQueensProblem.cpp(141,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Intelligent_Systems\NQueensProblem\NQueensProblem\NQueensProblem.cpp(142,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  6 of 371 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NQueensProblem.vcxproj -> D:\Intelligent_Systems\NQueensProblem\x64\Release\NQueensProblem.exe

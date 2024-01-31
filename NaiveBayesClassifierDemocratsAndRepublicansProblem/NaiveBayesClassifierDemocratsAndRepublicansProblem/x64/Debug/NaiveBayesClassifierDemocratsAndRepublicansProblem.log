@@ -1,0 +1,4 @@
+﻿  NaiveBayesClassifierDemocratsAndRepublicansProblem.cpp
+D:\Intelligent_Systems\NaiveBayesClassifierDemocratsAndRepublicansProblem\NaiveBayesClassifierDemocratsAndRepublicansProblem\NaiveBayesClassifierDemocratsAndRepublicansProblem.cpp(128,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Intelligent_Systems\NaiveBayesClassifierDemocratsAndRepublicansProblem\NaiveBayesClassifierDemocratsAndRepublicansProblem\NaiveBayesClassifierDemocratsAndRepublicansProblem.cpp(136,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  NaiveBayesClassifierDemocratsAndRepublicansProblem.vcxproj -> D:\Intelligent_Systems\NaiveBayesClassifierDemocratsAndRepublicansProblem\x64\Debug\NaiveBayesClassifierDemocratsAndRepublicansProblem.exe

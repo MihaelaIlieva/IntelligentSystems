@@ -1,0 +1,5 @@
+﻿  NQueensProblem.cpp
+D:\Intelligent_Systems\NQueensProblem\NQueensProblem\NQueensProblem.cpp(141,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Intelligent_Systems\NQueensProblem\NQueensProblem\NQueensProblem.cpp(142,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Intelligent_Systems\NQueensProblem\NQueensProblem\NQueensProblem.cpp(245): warning C4715: 'minConflictsAlgorithm': not all control paths return a value
+  NQueensProblem.vcxproj -> D:\Intelligent_Systems\NQueensProblem\x64\Debug\NQueensProblem.exe

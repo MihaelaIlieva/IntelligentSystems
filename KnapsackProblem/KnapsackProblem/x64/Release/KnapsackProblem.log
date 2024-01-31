@@ -1,0 +1,8 @@
+﻿  KnapsackProblem.cpp
+D:\Intelligent_Systems\KnapsackProblem\KnapsackProblem\KnapsackProblem.cpp(72,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Intelligent_Systems\KnapsackProblem\KnapsackProblem\KnapsackProblem.cpp(166,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KnapsackProblem.vcxproj -> D:\Intelligent_Systems\KnapsackProblem\x64\Release\KnapsackProblem.exe

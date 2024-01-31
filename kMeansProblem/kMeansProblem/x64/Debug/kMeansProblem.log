@@ -1,0 +1,9 @@
+﻿  kMeansProblem.cpp
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(85,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(206,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(206,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(218,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(218,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(306,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Intelligent_Systems\kMeansProblem\kMeansProblem\kMeansProblem.cpp(117): warning C4715: 'chooseNewCentroid': not all control paths return a value
+  kMeansProblem.vcxproj -> D:\Intelligent_Systems\kMeansProblem\x64\Debug\kMeansProblem.exe

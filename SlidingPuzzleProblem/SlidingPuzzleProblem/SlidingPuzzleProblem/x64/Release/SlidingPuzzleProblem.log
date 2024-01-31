@@ -1,0 +1,8 @@
+﻿  SlidingPuzzleProblem.cpp
+D:\Intelligent_Systems\SlidingPuzzleProblem\SlidingPuzzleProblem\SlidingPuzzleProblem\SlidingPuzzleProblem.cpp(184,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Intelligent_Systems\SlidingPuzzleProblem\SlidingPuzzleProblem\SlidingPuzzleProblem\SlidingPuzzleProblem.cpp(175): warning C4715: 'aStarAlgorithm': not all control paths return a value
+  All 728 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SlidingPuzzleProblem.vcxproj -> D:\Intelligent_Systems\SlidingPuzzleProblem\SlidingPuzzleProblem\x64\Release\SlidingPuzzleProblem.exe
